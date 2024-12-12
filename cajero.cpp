@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//prueba pra git
 int main(){
     //se decalaran las variables que hacen funcionar al cajero
     float saldo_inicial =1000,retiro,deposito,transferencia;
